@@ -2,51 +2,51 @@
 
 ## Oracle Digital Assistant ##
 
-### Introduction ###
-With each generation of users, there is a significant shift in how they communicate with each other and with organisations with whom they interact and do business. While much of the community may still rely on Telephone conversations and/or the use of Web or Mobile Apps to interact with an organisation, there is a significant portion of the community where their “on-line” experience is via a chat channel (such as talking to their friends over Skype or the like).    Hence while the mobile device has continued to be the “first-screen” they turn to, it is frequently a Chat app that they end up using. 
+### 介绍 ###
+对于每一代用户而言，他们彼此之间以及与他们互动和开展业务组织之间的沟通方式发生了重大转变。虽然目前大多数人仍然可能依赖电话交谈和/或使用网络或移动应用程序与组织进行沟通交流，但在一个组织中有相当一部分他们的“在线”体验是通过聊天渠道（例如通过微信等与他们的朋友交谈）。因此，虽然移动设备仍然是他们互动的“第一屏幕”，但在移动设备中使用时间最长的是聊天应用程序。
 
 <img src="ODA/img/Intro-1.png" width="100%"/>
 
-Thus, it is a conundrum of; if we can’t get a user to download your app, how do you reach out to them?  
+因此，这是一个难题; 如果我们无法让用户下载您的应用，您如何与他们取得联系？ 
 
-By using the app they already have installed – their Chat Client.
+通过使用他们已经安装的应用程序 - 他们的IM聊天客户端。
 
-This introduces the idea of using a **Chatbot** to allow the end user to interact with your organisation, while removing the need for them to either proactively go to your website or download your app to do so.
+这引入了使用Chatbot允许最终用户与您的组织进行交互的想法，同时无需主动访问您的网站或下载您的应用程序。
 
-So what is a Chatbot?
+什么是Chatbot?
 
-In short, a chatbot is a computer program designed to simulate a conversation with a human, especially over the Internet.  By using an interface metaphor that all users are used to, that is, interacting via a conversation, users can quickly and easily access the data and processes being exposed by an organization, using a universal client (the chat client) that they are already using.
+简而言之，聊天机器人是一种为模拟与人类用户进行对话（特别是通过互联网进行对话）而设计的计算机程序。在实践中，最终用户可以在许多常用消息传递应用中轻松找到并连接至聊天机器人，而无需单独从应用商店下载和安装。因此，在许多情况下，智能机器人相比驻留在设备中的移动应用都具有明显优势。这也意味着，您可以利用智能机器人，通过用户移动设备上已安装的消息传递应用即时为用户提供服务。
 
-### About the Exercise Today ###
+### 关于今天的活动 ###
 
-Today’s workshop revolves around the Digital Experience functionality of a fictitious Café chain called Café Supremo.
+今天的研讨会围绕着名为CafeSupremo的虚拟Cafe连锁店的数字体验功能展开。
 
 <img src="ODA/img/Intro-2.png" width="40%"/>
 
-While Café Supremo has a Mobile App, which is used by their most loyal customers, the marketing department is aware that new or prospective customers may not have downloaded the app (or even found it in the many hundreds of thousands of apps in the App-Stores).  As such, they are looking to expand their reach to prospective customers through the use of the various Social Chat Channels, in particular Facebook Messenger.
+虽然CafeSupremo拥有一个由最忠诚的客户使用的移动应用程序，但营销部门了解到大量新的或潜在的客户可能没有下载应用程序（甚至在应用商店中的数十万个应用程序中很难找到它）。因此，他们希望通过使用各种社交聊天频道，特别是微信、Facebook Messenger等，扩大他们与潜在客户的联系。
 
-This workshop will walk you introduce you to the CafeSupremo Bot, and then walk you through the various components used to build it and subsequently expand its available functionality.
+本研讨会将向您介绍CafeSupremo Bot，然后向您介绍用于构建它的各种组件，并随后扩展其可用功能。
 
-# Pre-Requisite #
-This Cloud Test Drive Workshop is designed to work with your own Autonomous Cloud Subscription. If you have Activated your account, but have not yet provisioned your Digital Assistant / Chatbot environment, please review the [Provisioning Steps](Provisioning/Provisioning.md). 
+# 先决条件 #
+本次Cloud Test Drive Workshop旨在与您自己的Autonomous Cloud Subscription配合使用。如果您已激活帐户，请首先完成配置Digital Assistant/Chatbot环境的操作，然后使用您自己的账号进行后台登录，完成本次的Lab。
 
-# Lab Exercises: #
+# 实验练习： #
 
-#### 1: Introduction to the Cafe Supremo Digital Assistant [(Start)](ODA/100-IB.md) ####
-#### 2: Building a Bot [(Start)](ODA/200-IB.md) ####
-#### 3: Custom Components [(Start)](ODA/300-IB.md) ####
-#### 4: Instant Apps for Structured Data [(Start)](ODA/400-IB.md) ####
-#### 5: Exposing the Digital Assistant within a Web Page [(Start)](ODA/500-IB.md)
+#### 1: Cafe Supremo数字助理简介 [(入门)](ODA/100-IB.md) ####
+#### 2: 创建一个自己的Bot [(开始)](ODA/200-IB.md) ####
+#### 3: 自定义组件 [(开始)](ODA/300-IB.md) ####
+#### 4: 结构化数据的即时应用程序 [(开始)](ODA/400-IB.md) ####
+#### 5: 在网页中发布数字助理应用 [(开始)](ODA/500-IB.md)
 
-#### OPTIONAL Labs - Exposing the Digital Assistant within Social Channels. ####
+#### 可选实验室 - 在社交渠道中发布数字助理 ####
 
-- 6: Via Facebook Messenger [(Start)](ODA/600-IB.md)
+- 6: 通过Facebook Messenger [(开始)](ODA/600-IB.md)
 
-## Lab Files ##
-- [Intents, Entities and Utterances for FoodMenu Bot](ODA/Lab_Files/Intents-And-Entities.zip)
-- [OBotML dialogue flow markup for ordering Food](ODA/Lab_Files/DialogYAML.zip)
-- [Custom Component Template](ODA/Lab_Files/Custom-Component-Template.zip)
-- [Web Application](ODA/Lab_Files/CTD3.0-CafeSupremo-Web.zip)
+## 实验文档 ##
+- [FoodMenu Bot的意图，实体和话语](ODA/Lab_Files/Intents-And-Entities.zip)
+- [用于订购Food的OBotML对话流标记](ODA/Lab_Files/DialogYAML.zip)
+- [自定义组件模板](ODA/Lab_Files/Custom-Component-Template.zip)
+- [Web应用程序](ODA/Lab_Files/CTD3.0-CafeSupremo-Web.zip)
 
 
 
