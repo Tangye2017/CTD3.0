@@ -19,13 +19,13 @@
 
 ### 关于今天的活动 ###
 
-今天的研讨会围绕着名为CafeSupremo的虚拟Cafe连锁店的数字体验功能展开。
+今天的研讨会围绕着名为CaféSupremo的虚拟Cafe连锁店的数字体验功能展开。
 
 <img src="ODA/img/Intro-2.png" width="40%"/>
 
-虽然CafeSupremo拥有一个由最忠诚的客户使用的移动应用程序，但营销部门了解到大量新的或潜在的客户可能没有下载应用程序（甚至在应用商店中的数十万个应用程序中很难找到它）。因此，他们希望通过使用各种社交聊天频道，特别是微信、Facebook Messenger等，扩大他们与潜在客户的联系。
+虽然CaféSupremo拥有一个由最忠诚的客户使用的移动应用程序，但营销部门了解到大量新的或潜在的客户可能没有下载应用程序（甚至在应用商店中的数十万个应用程序中很难找到它）。因此，他们希望通过使用各种社交聊天频道，特别是微信、Facebook Messenger等，扩大他们与潜在客户的联系。
 
-本研讨会将向您介绍CafeSupremo Bot，然后向您介绍用于构建它的各种组件，并随后扩展其可用功能。
+本研讨会将向您介绍CaféSupremo Bot，然后向您介绍用于构建它的各种组件，并随后扩展其可用功能。
 
 # 先决条件 #
 本次Cloud Test Drive Workshop旨在与您自己的Autonomous Cloud Subscription配合使用。如果您已激活帐户，请首先完成配置Digital Assistant/Chatbot环境的操作，然后使用您自己的账号进行后台登录，完成本次的Lab。
