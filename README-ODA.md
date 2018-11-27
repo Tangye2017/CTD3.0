@@ -38,14 +38,10 @@
 #### 4: 结构化数据的即时应用程序 [(开始)](ODA/400-IB.md) ####
 #### 5: 在网页中发布数字助理应用 [(开始)](ODA/500-IB.md)
 
-#### 可选实验室 - 在社交渠道中发布数字助理 ####
-
-- 6: 通过Facebook Messenger [(开始)](ODA/600-IB.md)
-
 ## 实验文档 ##
 - [FoodMenu Bot的意图，实体和话语](ODA/Lab_Files/Intents-And-Entities.zip)
 - [用于订购Food的OBotML对话流标记](ODA/Lab_Files/DialogYAML.zip)
-- [自定义组件模板](ODA/Lab_Files/Custom-Component-Template.zip)
+- [自定义组件模板](ODA/Lab_Files/CafeSupremoTD_Embed.zip)
 - [Web应用程序](ODA/Lab_Files/CTD3.0-CafeSupremo-Web.zip)
 
 
